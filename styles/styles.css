@@ -20,7 +20,7 @@ body{
 
 #container{
   width: 25vw;
-  position: relative;
+  position: absolute;
   /*margin: auto;*/
   margin-top: 1.5vh;
   margin-left: 5vh,
