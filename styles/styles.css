@@ -22,7 +22,7 @@ body{
   width: 50%;
   position: absolute;
   /*margin: auto;*/
-  margin-top: 3vh;
+  margin-top: 1vh;
   margin-left: 3vh,
   pointer-events:none;
 
@@ -85,8 +85,8 @@ body{
 
 
 h1{
-  display: block;
-  text-align: center;
+  display: inline;
+  text-align: left;
   font-family: "FormaDJRBanner-Light";
   font-size: 2em;
   /*font-weight: lighter;*/
@@ -95,19 +95,20 @@ h1{
   -webkit-text-fill-color: black;
   margin: auto;
   margin-top: 1vh;
+  margin-left: 3vh;
   z-index: 0;
   letter-spacing: 0.1em;
 
 }
 
 h2{
-  display: block;
+  display: inline-block;
   text-align: justify;
   text-justify: auto;
   margin-top: 10vh;
   padding: 0vh 4vh;
-  margin-left: 14vw;
-  margin-right: 14vw;
+  margin-left: 3vh;
+  margin-right: 80vh;
   text-align: justify;
   font-size: 1em;
   font-family: arial;
