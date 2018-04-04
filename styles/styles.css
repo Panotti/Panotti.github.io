@@ -15,9 +15,8 @@
 body{
   margin: 0;
   padding:0;
-  background-image: url(/assets/"background.png");
   /*background-color: #ff5e00;*/
-
+  background-image: url(/assets/"background.png");
 }
 
 #container{
