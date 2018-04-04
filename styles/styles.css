@@ -89,11 +89,12 @@ h1{
   width: 20vw;
   text-align: justify;
   font-family: "Nouvellepolice-Regular";
+  font-weight: normal;
   font-size: 4em;
   /*font-weight: lighter;*/
   background: -webkit-radial-gradient(#eee, black);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: black;
   margin-top: 5vh;
   margin-left: 5vh;
   z-index: 0;
