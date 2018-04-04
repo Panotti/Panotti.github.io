@@ -1,5 +1,5 @@
 @font-face { font-family: 'FormaDJRBanner-Light.otf';
-            src: url('../fonts/Forma_DJR/FormaDJRBanner-Light.otf') format('otf')
+            src: url('../fonts/Forma_DJR/FormaDJRBanner-Medium.otf') format('otf')
             }
 
 @font-face { font-family: 'arial';
@@ -88,7 +88,7 @@ h1{
   display: block;
   width: 20vw;
   text-align: justify;
-  font-family: "FormaDJRBanner-Light";
+  font-family: "FormaDJRBanner-Medium";
   font-size: 4em;
   /*font-weight: lighter;*/
   background: -webkit-radial-gradient(#eee, black);
