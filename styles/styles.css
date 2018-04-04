@@ -15,7 +15,8 @@
 body{
   margin: 0;
   padding:0;
-  background-color: #eee;
+  background-image: url("background.png)");
+  background-color: #ff5e00;
 
 }
 
