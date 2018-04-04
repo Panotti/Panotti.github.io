@@ -45,17 +45,17 @@ body{
 }
 
 
-.container {
+/*.container {
     margin-top: 3vh;
     margin-left: 3vh;
-    /*display: inline-block;*/
+    display: inline-block;
     cursor: pointer;
-}
+}*/
 
-::selection {
+/*::selection {
     color: transparent; 
     background: transparent;
-}
+}*/
 
 
 /*Menu bars*/
