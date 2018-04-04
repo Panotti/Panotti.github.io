@@ -57,36 +57,17 @@ body{
     background: transparent;
 }
 
-.bar1, .bar2, .bar3 {
-    margin-left: 1vh;
+
+/*Menu bars*/
+/*.bar1, .bar2, .bar3 {
+    margin-left: 1vw;
     margin-top: 1vh;
     width: 4vh;
     height: 0.4vh;
     background-color: #000;
     transition: 0.6s;
     z-index: 2;
-}
-
-/* Rotate first bar */
-.change .bar1 {
-    -webkit-transform: rotate(-90deg) translate(-1.4vh, 30vw) ;
-    /*transform: rotate(-90deg) translate(-0vh, 80vh) ;*/
-    opacity: 1;
-}
- 
-/* Fade out the second bar */
-.change .bar2 {
-    -webkit-transform: rotate(-90deg) translate(0vh, 0vw) ;
-    /*transform: rotate(-90deg) translate(-0vh, 0vh) ;*/
-    
-}
-
-/* Rotate last bar */
-.change .bar3 {
-    -webkit-transform: rotate(-90deg) translate(1.4vh, 60vw) ;
-    /*transform: rotate(-90deg) translate(-45vh, 90vh) ;*/
-    opacity: 1;
-}
+}*/
 
 
 /*h1{
