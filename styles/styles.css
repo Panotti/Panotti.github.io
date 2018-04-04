@@ -17,7 +17,7 @@ body{
   padding:0;
   background-color: #ff5e00;
   background-image: url(/assets/"background.png");
-  background-size: cover;
+  background-size: 100%;
   z-index: -1;
 }
 
@@ -99,7 +99,7 @@ h1{
   -webkit-text-fill-color: #ff5e00;
   margin-top: 1vh;
   margin-left: 5vh;
-  z-index: 0;
+  /*z-index: 0;*/
   letter-spacing: 0.2em;
   text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , /*0 0 30px rgba(255,255,255,1) ,*/ 0 0 40px #ff5e00 , 0 0 70px #ff5e00 , 0 0 80px #ff5e00 , 0 0 100px #ff5e00 ;
   -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
