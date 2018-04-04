@@ -111,7 +111,8 @@ h2{
   margin-right: 10vh;
   text-align: justify;
   font-size: 1em;
-  font-family: arial;
+  font-family: 'Work Sans', sans-serif;
+  /*font-weight: 'semi-bold'*/
   font-weight: normal;
   line-height: 1.4em;
 }
