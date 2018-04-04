@@ -113,8 +113,8 @@ h2{
   margin-left: 5vh;
   /*margin-right: 80vh;*/
   font-size: 1em;
-  font-family: "ArialNarrowMTStd.otf", sans-serif;
-  font-weight: normal;
+  font-family: "ArialNarrowMTStd.otf";
+  /*font-weight: normal;*/
   line-height: 1.4em;
 }
 
