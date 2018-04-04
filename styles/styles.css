@@ -1,9 +1,9 @@
-@font-face { font-family: 'Nouvellepolice-Regular.otf';
-            src: url('../fonts/Nouvellepolice-Regular.otf') format('otf')
+@font-face { font-family: Nouvellepolice;
+            src: url(/fonts/Nouvellepolice-Regular.otf);
             }
 
-@font-face { font-family: 'ArialNarrowMTStd.otf';
-            src: url('../fonts/Arial_Narrow/ArialNarrowMTStd.otf') format('otf')
+@font-face { font-family: ArialNarrow;
+            src: url(/fonts/Arial_Narrow/ArialNarrowMTStd.otf);
             }
             
 
@@ -88,7 +88,7 @@ h1{
   display: block;
   width: 20vw;
   text-align: justify;
-  font-family: "Nouvellepolice-Regular";
+  font-family: Nouvellepolice;
   font-weight: normal;
   font-size: 4em;
   /*font-weight: lighter;*/
@@ -117,7 +117,7 @@ h2{
   margin-left: 5vh;
   /*margin-right: 80vh;*/
   font-size: 1em;
-  font-family: "ArialNarrowMTStd";
+  font-family: ArialNarrow;
   letter-spacing: 0.2em;
   /*font-weight: normal;*/
   line-height: 1.4em;
