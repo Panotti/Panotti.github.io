@@ -121,14 +121,14 @@ h3{
   display: block;
   width: 20vw;
   text-align: justify;
-  margin-top: 4vh;
+  margin-top: 3vh;
   margin-left: 5vh;
   /*margin-right: 80vh;*/
   font-size: 2em;
   font-family: "Work Sans";
-  font-weight: bold;
+  font-weight: bolder;
   line-height: 1.4em;
-  /*letter-spacing: 0.26em;*/
+  letter-spacing: 0.2em;
 
 }
 
@@ -138,13 +138,12 @@ h4{
   text-align: justify;
   margin-left: 5vh;
   /*margin-right: 80vh;*/
-  margin-top: 4vh;
+  margin-top: 3vh;
   font-size: 2em;
   line-height: 1.4em;
   font-family: "Work Sans";
-  font-weight: bold;
-  /*line-height: 0.2em;*/
-  /*letter-spacing: 0.2em;*/
+  font-weight: bolder;
+  letter-spacing: 0.2em;
 
 }
 
