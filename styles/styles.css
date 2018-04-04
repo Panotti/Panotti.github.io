@@ -27,7 +27,7 @@ body{
 }
 
 .image1{
-  width: 100%;
+  width: 50%;
   position: absolute;
   margin: auto;
   opacity: 1;
@@ -35,7 +35,7 @@ body{
 }
 
 .image2{
-  width: 100%;
+  width: 50%;
   position: absolute;
   margin: auto;
   opacity: 0.9;
