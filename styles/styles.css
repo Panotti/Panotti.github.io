@@ -107,14 +107,13 @@ h2{
   width: 20vw;
   text-align: justify;
   text-justify: auto;
-  margin-top: 4vh;
+  margin-top: 2vh;
   /*padding: 0vh 4vh;*/
   margin-left: 5vh;
-  margin-right: 80vh;
+  /*margin-right: 80vh;*/
   font-size: 1em;
   font-family: "Work Sans", sans-serif;
-  /*font-weight: 'semi-bold'*/
-  font-weight: normal;
+  font-weight: medium;
   line-height: 1.4em;
 }
 
