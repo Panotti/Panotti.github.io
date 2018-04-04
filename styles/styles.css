@@ -122,7 +122,6 @@ h3{
   display: block;
   width: 20vw;
   text-align: justify;
-  /*text-justify: auto;*/
   margin-top: 18vh;
   margin-left: 5vh;
   /*margin-right: 80vh;*/
@@ -138,7 +137,6 @@ h4{
   display: block;
   width: 20vw;
   text-align: justify;
-  text-justify: auto;
   margin-left: 5vh;
   /*margin-right: 80vh;*/
   margin-top: 18vh;
