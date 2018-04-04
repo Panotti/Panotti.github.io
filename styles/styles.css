@@ -23,13 +23,13 @@ body{
   position: relative;
   /*margin: auto;*/
   margin-top: 1.5vh;
-  margin-left: 3vh,
+  margin-left: 5vh,
   pointer-events:none;
 
 }
 
 .image1{
-  width: 25vw;
+  width: 100%;
   position: relative;
   margin: auto;
   opacity: 1;
@@ -37,7 +37,7 @@ body{
 }
 
 .image2{
-  width: 25vw;
+  width: 100%;
   position: relative;
   margin: auto;
   opacity: 0.9;
@@ -96,7 +96,7 @@ h1{
   -webkit-text-fill-color: black;
   margin: auto;
   margin-top: 1.5vh;
-  margin-left: 3vh;
+  margin-left: 5vh;
   z-index: 0;
   /*letter-spacing: 0.2em;*/
 
@@ -109,7 +109,7 @@ h2{
   text-justify: auto;
   margin-top: 14vh;
   /*padding: 0vh 4vh;*/
-  margin-left: 3vh;
+  margin-left: 5vh;
   margin-right: 80vh;
   font-size: 1em;
   font-family: "Work Sans", sans-serif;
@@ -124,7 +124,7 @@ h3{
   text-align: justify;
   /*text-justify: auto;*/
   margin-top: 18vh;
-  margin-left: 3vh;
+  margin-left: 5vh;
   /*margin-right: 80vh;*/
   font-size: 2em;
   font-family: "Work Sans";
@@ -139,7 +139,7 @@ h4{
   width: 25vw;
   text-align: justify;
   text-justify: auto;
-  margin-left: 3vh;
+  margin-left: 5vh;
   /*margin-right: 80vh;*/
   margin-top: 18vh;
   font-size: 2em;
