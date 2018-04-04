@@ -92,9 +92,9 @@ h1{
   font-weight: normal;
   font-size: 4em;
   /*font-weight: lighter;*/
-  background: -webkit-radial-gradient(red, orange);
+  background: -webkit-radial-gradient(#FF4500, #FF4500);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: orange;
+  -webkit-text-fill-color: #FF4500;
   margin-top: 5vh;
   margin-left: 5vh;
   z-index: 0;
@@ -116,7 +116,7 @@ h2{
   letter-spacing: 0.2em;
   /*font-weight: normal;*/
   line-height: 1.4em;
-  text-decoration-color: orange;
+  color:  #FF4500;
 }
 
 h3{
