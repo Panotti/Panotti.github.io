@@ -95,7 +95,7 @@ h1{
   background: -webkit-radial-gradient(#ff5e00, ##ff5e00);
   -webkit-background-clip: text;
   -webkit-text-fill-color: #ff5e00;
-  margin-top: 5vh;
+  margin-top: 1vh;
   margin-left: 5vh;
   z-index: 0;
   letter-spacing: 0.2em;
