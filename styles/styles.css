@@ -105,13 +105,12 @@ h2{
   display: inline-block;
   text-align: justify;
   text-justify: auto;
-  margin-top: 10vh;
+  margin-top: 20vh;
   /*padding: 0vh 4vh;*/
   margin-left: 3vh;
-  margin-right: 10vh;
-  text-align: justify;
+  margin-right: 80vh;
   font-size: 1em;
-  font-family: 'Work Sans', sans-serif;
+  font-family: "Work Sans", sans-serif;
   /*font-weight: 'semi-bold'*/
   font-weight: normal;
   line-height: 1.4em;
@@ -119,11 +118,13 @@ h2{
 
 h3{
   display: block;
-  /*margin-top: */
-  padding: 0vh 4vh;
-  text-align: center;
+  text-align: justify;
+  text-justify: auto;
+  margin-top: 20vh;
+  margin-left: 3vh;
+  margin-right: 80vh;
   font-size: 1.2em;
-  font-family: arial;
+  font-family: "Work Sans";
   font-weight: normal;
   line-height: 1.2em;
   /*letter-spacing: 0.26em;*/
@@ -131,15 +132,18 @@ h3{
 }
 
 h4{
-  display: block;
-  /*margin-top: */
-  padding: 0vh 4vh;
-  text-align: center;
-  font-size: 2em;
-  font-family: arial;
+  display: inline-block;
+  text-align: justify;
+  text-justify: auto;
+  margin-left: 3vh;
+  margin-right: 80vh;
+  margin-top: 20vh;
+  font-size: 1em;
+  line-height: 1.4em;
+  font-family: "Work Sans";
   font-weight: normal;
   /*line-height: 0.2em;*/
-  letter-spacing: 0.4em;
+  letter-spacing: 0.2em;
 
 }
 
