@@ -1,5 +1,5 @@
-@font-face { font-family: 'AntiqueOliveStd-Nord.otf';
-            src: url('../fonts/AntiqueOliveStd-Nord.otf') format('otf')
+@font-face { font-family: 'FormaDJRBanner-Light.otf';
+            src: url('../fonts/FormaDJRBanner-Light.otf') format('otf')
             }
 
 @font-face { font-family: 'arial';
@@ -103,7 +103,7 @@ body{
 h1{
   display: block;
   text-align: center;
-  font-family: "AntiqueOliveStd-Nord";
+  font-family: "FormaDJRBanner-Light";
   font-size: 12vw;
   /*font-weight: lighter;*/
   background: -webkit-radial-gradient(#eee, black);
