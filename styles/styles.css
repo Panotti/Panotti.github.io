@@ -19,7 +19,7 @@ body{
 }
 
 #container{
-  width: 100%;
+  width: 50%;
   position: absolute;
   /*margin: auto;*/
   margin-top: 0;
@@ -45,7 +45,7 @@ body{
 
 .container {
     margin-top: 3vh;
-    margin-left: 1.5vh;
+    margin-left: 3vh;
     /*display: inline-block;*/
     cursor: pointer;
 }
@@ -104,7 +104,7 @@ h1{
   display: block;
   text-align: center;
   font-family: "FormaDJRBanner-Light";
-  font-size: 16vw;
+  font-size: 2em;
   /*font-weight: lighter;*/
   background: -webkit-radial-gradient(#eee, black);
   -webkit-background-clip: text;
