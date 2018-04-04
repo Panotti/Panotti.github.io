@@ -20,9 +20,9 @@ body{
 
 #container{
   width: 25vw;
-  position: absolute;
+  position: relative;
   /*margin: auto;*/
-  margin-top: 1vh;
+  margin-top: 1.5vh;
   margin-left: 3vh,
   pointer-events:none;
 
@@ -30,7 +30,7 @@ body{
 
 .image1{
   width: 25vw;
-  position: absolute;
+  position: relative;
   margin: auto;
   opacity: 1;
   z-index: -1;
@@ -38,7 +38,7 @@ body{
 
 .image2{
   width: 25vw;
-  position: absolute;
+  position: relative;
   margin: auto;
   opacity: 0.9;
   z-index: 1;
