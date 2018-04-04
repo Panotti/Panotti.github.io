@@ -104,7 +104,7 @@ h1{
   display: block;
   text-align: center;
   font-family: "FormaDJRBanner-Light";
-  font-size: 12vw;
+  font-size: 16vw;
   /*font-weight: lighter;*/
   background: -webkit-radial-gradient(#eee, black);
   -webkit-background-clip: text;
