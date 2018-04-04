@@ -14,7 +14,7 @@
 
 body{
   margin: 0;
-  padding:0;
+  padding:1em;
 
 }
 
@@ -22,13 +22,14 @@ body{
   width: 50%;
   position: absolute;
   /*margin: auto;*/
-  margin-top: 0;
+  margin-top: 3vh;
+  margin-left: 3vh,
   pointer-events:none;
 }
 
 .image1{
   width: 50%;
-  position: relative;
+  position: absolute;
   margin: auto;
   opacity: 1;
   z-index: -1;
@@ -36,7 +37,7 @@ body{
 
 .image2{
   width: 50%;
-  position: relative;
+  position: absolute;
   margin: auto;
   opacity: 0.9;
   z-index: 1;
@@ -110,9 +111,9 @@ h1{
   -webkit-background-clip: text;
   -webkit-text-fill-color: black;
   margin: auto;
-  margin-top: 1vw;
+  margin-top: 1vh;
   z-index: 0;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
 
 }
 
@@ -120,12 +121,12 @@ h2{
   display: block;
   text-align: justify;
   text-justify: auto;
-  margin-top: 26vw;
+  margin-top: 10vh;
   padding: 0vh 4vh;
-  margin-left: 188w;
+  margin-left: 14vw;
   margin-right: 14vw;
   text-align: justify;
-  font-size: 1.4em;
+  font-size: 1em;
   font-family: arial;
   font-weight: normal;
   line-height: 1.4em;
