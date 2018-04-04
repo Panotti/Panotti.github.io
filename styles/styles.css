@@ -99,7 +99,7 @@ h1{
   margin-left: 5vh;
   z-index: 0;
   letter-spacing: 0.68em;
-  text-shadow: /*0 0 10px rgba(255,255,255,1) *//*, 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) */, 0 0 40px #FF4500 , 0 0 70px #FF4500 , 0 0 80px #FF4500 , 0 0 100px #FF4500 ;
+  text-shadow: /*0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) ,*/ 0 0 40px #FF4500 , 0 0 70px #FF4500 , 0 0 80px #FF4500 , 0 0 100px #FF4500 ;
   -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
   -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
   -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
@@ -122,7 +122,7 @@ h2{
   /*font-weight: normal;*/
   line-height: 1.4em;
   color:  #FF4500;
-  text-shadow: /*0 0 10px rgba(255,255,255,1)*/ /*, 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) */, 0 0 40px #FF4500 , 0 0 70px #FF4500 , 0 0 80px #FF4500 , 0 0 100px #FF4500 ;
+  text-shadow: /*0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) ,*/ 0 0 40px #FF4500 , 0 0 70px #FF4500 , 0 0 80px #FF4500 , 0 0 100px #FF4500 ;
   -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
   -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
   -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
