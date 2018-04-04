@@ -2,8 +2,8 @@
             src: url('../fonts/Nouvellepolice-Regular.otf') format('otf')
             }
 
-@font-face { font-family: 'arial';
-            /*src: url('../fonts/cond.woff') format('woff')*/
+@font-face { font-family: 'ArialNarrowMTStd.otf';
+            src: url('../fonts/Arial_Narrow/ArialNarrowMTStd.otf') format('otf')
             }
             }
 
@@ -31,8 +31,8 @@ body{
   width: 100%;
   position: absolute;
   margin-left: 5vh;
-  opacity: 1;
-  z-index: 1;
+  opacity: 0;
+  z-index: -1;
 }
 
 .image2{
@@ -111,7 +111,7 @@ h2{
   margin-left: 5vh;
   /*margin-right: 80vh;*/
   font-size: 1em;
-  font-family: "Work Sans", sans-serif;
+  font-family: "ArialNarrowMTStd.otf", sans-serif;
   font-weight: normal;
   line-height: 1.4em;
 }
