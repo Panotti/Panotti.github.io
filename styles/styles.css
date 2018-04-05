@@ -108,8 +108,8 @@ h1{
   background: -webkit-radial-gradient(white, white);
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  /*-webkit-text-stroke-width: 1px;*/
+  /*-webkit-text-stroke-color: black;*/
   margin-top: 1vh;
   margin-left: 5vh;
   /*z-index: 0;*/
